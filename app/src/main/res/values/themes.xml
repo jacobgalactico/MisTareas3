@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Tema de la aplicación -->
+    <style name="Theme.MisTareas3" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Personaliza los colores de la aplicación aquí -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryDark">@color/purple_700</item>
+        <item name="colorAccent">@color/teal_200</item>
+    </style>
+
+    <!-- Tema para SplashScreen si es necesario -->
+    <style name="Theme.MisTareas3.Splash" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowBackground">@color/white</item>
+    </style>
+</resources>
